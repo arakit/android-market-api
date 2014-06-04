@@ -12,7 +12,10 @@
 hs_err_pid*
 
 # settings
-.settings
-.idea
+.settings/
+.idea/
+
 .classpath
 .project
+
+*.iml
